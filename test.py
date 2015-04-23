@@ -1,0 +1,8 @@
+#coding=gbk
+'''
+Created on 2015Äê4ÔÂ23ÈÕ
+
+@author: Blunce
+'''
+if __name__ == '__main__':
+    print 'test'
